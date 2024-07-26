@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepanrookie
+- 👋 Hi, I’m @deepanchakaravarthi
 - 👀 I’m interested in generative AI
 - 🌱 I’m currently learning Social media automation using AI
 - 💞️ I’m looking to collaborate on ...
